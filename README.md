@@ -1,2 +1,2 @@
 # Oracle-Veritaban-Projesi
-Kodlar zip olarak da yüklenmiştir.
+Oracle Veritabanı Dersi için proje dosyası yüklenmiştir.
